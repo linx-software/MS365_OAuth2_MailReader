@@ -1,0 +1,58 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "Plra",
+      "Properties": [
+        {
+          "Id": "From",
+          "Name": "From",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "FromAddress",
+          "Name": "FromAddress",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "To",
+          "Name": "To",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "Cc",
+          "Name": "Cc",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "Subject",
+          "Name": "Subject",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "Body",
+          "Name": "Body",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "FilePath",
+          "Name": "FilePath",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "TimeSent",
+          "Name": "TimeSent",
+          "Type": "Compiled:DateTime",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

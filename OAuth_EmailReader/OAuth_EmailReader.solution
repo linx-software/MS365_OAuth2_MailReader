@@ -1,0 +1,20 @@
+{
+  "ApplicationVersion": "6.4.3",
+  "SolutionVersion": 4,
+  "Plugins": [
+    "twenty57.linx.plugins.cryptography, 1.0.1",
+    "twenty57.linx.plugins.csharp, 1.0.2",
+    "twenty57.linx.plugins.email, 1.0.3",
+    "twenty57.linx.plugins.rest, 1.1.0",
+    "twenty57.linx.plugins.standard, 1.1.0",
+    "twenty57.linx.plugins.utilities, 1.0.2"
+  ],
+  "Dependencies": [
+    "twenty57.linx.solutiondependencies.compilation, 2.0.0",
+    "twenty57.linx.solutiondependencies.types, 1.2.0"
+  ],
+  "Items": [
+    "OAuth_Response.folder",
+    "OAuth2Mail.function"
+  ]
+}

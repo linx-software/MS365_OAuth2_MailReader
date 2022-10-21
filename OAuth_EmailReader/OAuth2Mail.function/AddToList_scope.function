@@ -1,0 +1,22 @@
+{
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:ZX2z",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "List_Body",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:ZX2z"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Value",
+      "Type": "Custom:ZX2z",
+      "ValueUsage": "RuntimeRead",
+      "Value": "{\"Name\":\"scope\", \"Value\":\"https://outlook.office365.com/.default\"}",
+      "ValueType": "String"
+    }
+  ]
+}

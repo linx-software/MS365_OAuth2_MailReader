@@ -1,0 +1,16 @@
+{
+  "Id": "ZX2z",
+  "Name": "OAuth_Body",
+  "Properties": [
+    {
+      "Id": "c02s",
+      "Name": "Name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "GLKe",
+      "Name": "Value",
+      "Type": "Compiled:String"
+    }
+  ]
+}

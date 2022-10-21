@@ -1,0 +1,16 @@
+{
+  "Properties": [
+    {
+      "Id": "Source",
+      "Type": "Compiled:Object",
+      "ValueUsage": "RuntimeRead",
+      "Value": null
+    },
+    {
+      "Id": "Target",
+      "Type": "Compiled:Object",
+      "ValueUsage": "RuntimeWrite",
+      "Value": null
+    }
+  ]
+}

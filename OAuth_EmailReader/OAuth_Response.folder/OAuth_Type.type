@@ -1,0 +1,26 @@
+{
+  "Id": "qvIJ",
+  "Name": "OAuth_Type",
+  "Properties": [
+    {
+      "Id": "WIuo",
+      "Name": "token_type",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "EEe8",
+      "Name": "expires_in",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "Cnyh",
+      "Name": "ext_expires_in",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "EDx0",
+      "Name": "access_token",
+      "Type": "Compiled:String"
+    }
+  ]
+}
