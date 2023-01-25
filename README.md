@@ -21,7 +21,7 @@ Add the details into the variables declared above in the OAuth2Mail function:
 
 Add your logic to the function to manipulate/use the email as required. You can remove the 'YourLogicGoesHere' component as it is a placeholder.
 
-If you get an error like NO AUTHENTICATE, it is likely that you need to check your mermissions or Azure setup as there might be something that was missed. 
+If you get an error like NO AUTHENTICATE, it is likely that you need to check your permissions or Azure setup as there might be something that was missed. 
 
 ## Contributing
 
